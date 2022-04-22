@@ -8,4 +8,6 @@ git clone https://github.com/Gaspard-Savoureux/python-controller.git
 
 # Usage
 
+```
 python controller.py
+```
